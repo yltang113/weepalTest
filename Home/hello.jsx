@@ -10,7 +10,7 @@ export class hello extends Component {
   render() {
     return (
       <div>
-        <p>11111</p>
+        <p>2222</p>
       </div>
     )
   }
